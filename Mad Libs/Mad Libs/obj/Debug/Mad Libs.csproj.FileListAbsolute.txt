@@ -1,0 +1,8 @@
+D:\Projects\C# PROJECTS\Mad Libs\Mad Libs\bin\Debug\Mad Libs.exe.config
+D:\Projects\C# PROJECTS\Mad Libs\Mad Libs\bin\Debug\Mad Libs.exe
+D:\Projects\C# PROJECTS\Mad Libs\Mad Libs\bin\Debug\Mad Libs.pdb
+D:\Projects\C# PROJECTS\Mad Libs\Mad Libs\obj\Debug\Mad Libs.csproj.AssemblyReference.cache
+D:\Projects\C# PROJECTS\Mad Libs\Mad Libs\obj\Debug\Mad Libs.csproj.SuggestedBindingRedirects.cache
+D:\Projects\C# PROJECTS\Mad Libs\Mad Libs\obj\Debug\Mad Libs.csproj.CoreCompileInputs.cache
+D:\Projects\C# PROJECTS\Mad Libs\Mad Libs\obj\Debug\Mad Libs.exe
+D:\Projects\C# PROJECTS\Mad Libs\Mad Libs\obj\Debug\Mad Libs.pdb
