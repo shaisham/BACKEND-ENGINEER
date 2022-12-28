@@ -1,0 +1,8 @@
+D:\Projects\C# PROJECTS\Console Creatures\Console Creatures\bin\Debug\Console Creatures.exe.config
+D:\Projects\C# PROJECTS\Console Creatures\Console Creatures\bin\Debug\Console Creatures.exe
+D:\Projects\C# PROJECTS\Console Creatures\Console Creatures\bin\Debug\Console Creatures.pdb
+D:\Projects\C# PROJECTS\Console Creatures\Console Creatures\obj\Debug\Console Creatures.csproj.AssemblyReference.cache
+D:\Projects\C# PROJECTS\Console Creatures\Console Creatures\obj\Debug\Console Creatures.csproj.SuggestedBindingRedirects.cache
+D:\Projects\C# PROJECTS\Console Creatures\Console Creatures\obj\Debug\Console Creatures.csproj.CoreCompileInputs.cache
+D:\Projects\C# PROJECTS\Console Creatures\Console Creatures\obj\Debug\Console Creatures.exe
+D:\Projects\C# PROJECTS\Console Creatures\Console Creatures\obj\Debug\Console Creatures.pdb
