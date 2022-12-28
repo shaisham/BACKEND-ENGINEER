@@ -1,0 +1,8 @@
+D:\Projects\C# PROJECTS\Money Maker\Money Maker\bin\Debug\Money Maker.exe.config
+D:\Projects\C# PROJECTS\Money Maker\Money Maker\bin\Debug\Money Maker.exe
+D:\Projects\C# PROJECTS\Money Maker\Money Maker\bin\Debug\Money Maker.pdb
+D:\Projects\C# PROJECTS\Money Maker\Money Maker\obj\Debug\Money Maker.csproj.AssemblyReference.cache
+D:\Projects\C# PROJECTS\Money Maker\Money Maker\obj\Debug\Money Maker.csproj.SuggestedBindingRedirects.cache
+D:\Projects\C# PROJECTS\Money Maker\Money Maker\obj\Debug\Money Maker.csproj.CoreCompileInputs.cache
+D:\Projects\C# PROJECTS\Money Maker\Money Maker\obj\Debug\Money Maker.exe
+D:\Projects\C# PROJECTS\Money Maker\Money Maker\obj\Debug\Money Maker.pdb
