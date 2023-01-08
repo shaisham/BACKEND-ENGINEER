@@ -1,0 +1,8 @@
+D:\Projects\C# PROJECTS\ArchitectArithmetic\ArchitectArithmetic\bin\Debug\ArchitectArithmetic.exe.config
+D:\Projects\C# PROJECTS\ArchitectArithmetic\ArchitectArithmetic\bin\Debug\ArchitectArithmetic.exe
+D:\Projects\C# PROJECTS\ArchitectArithmetic\ArchitectArithmetic\bin\Debug\ArchitectArithmetic.pdb
+D:\Projects\C# PROJECTS\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\ArchitectArithmetic.csproj.AssemblyReference.cache
+D:\Projects\C# PROJECTS\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\ArchitectArithmetic.csproj.SuggestedBindingRedirects.cache
+D:\Projects\C# PROJECTS\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\ArchitectArithmetic.csproj.CoreCompileInputs.cache
+D:\Projects\C# PROJECTS\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\ArchitectArithmetic.exe
+D:\Projects\C# PROJECTS\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\ArchitectArithmetic.pdb
