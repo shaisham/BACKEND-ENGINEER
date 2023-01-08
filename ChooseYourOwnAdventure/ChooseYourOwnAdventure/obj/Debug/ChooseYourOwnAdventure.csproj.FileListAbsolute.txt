@@ -1,0 +1,8 @@
+D:\Projects\C# PROJECTS\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\ChooseYourOwnAdventure.exe.config
+D:\Projects\C# PROJECTS\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\ChooseYourOwnAdventure.exe
+D:\Projects\C# PROJECTS\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\ChooseYourOwnAdventure.pdb
+D:\Projects\C# PROJECTS\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\ChooseYourOwnAdventure.csproj.AssemblyReference.cache
+D:\Projects\C# PROJECTS\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\ChooseYourOwnAdventure.csproj.SuggestedBindingRedirects.cache
+D:\Projects\C# PROJECTS\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\ChooseYourOwnAdventure.csproj.CoreCompileInputs.cache
+D:\Projects\C# PROJECTS\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\ChooseYourOwnAdventure.exe
+D:\Projects\C# PROJECTS\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\ChooseYourOwnAdventure.pdb
