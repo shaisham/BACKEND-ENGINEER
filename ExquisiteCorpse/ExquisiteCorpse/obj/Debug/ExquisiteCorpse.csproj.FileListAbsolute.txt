@@ -1,0 +1,8 @@
+D:\Projects\C# PROJECTS\ExquisiteCorpse\ExquisiteCorpse\bin\Debug\ExquisiteCorpse.exe.config
+D:\Projects\C# PROJECTS\ExquisiteCorpse\ExquisiteCorpse\bin\Debug\ExquisiteCorpse.exe
+D:\Projects\C# PROJECTS\ExquisiteCorpse\ExquisiteCorpse\bin\Debug\ExquisiteCorpse.pdb
+D:\Projects\C# PROJECTS\ExquisiteCorpse\ExquisiteCorpse\obj\Debug\ExquisiteCorpse.csproj.AssemblyReference.cache
+D:\Projects\C# PROJECTS\ExquisiteCorpse\ExquisiteCorpse\obj\Debug\ExquisiteCorpse.csproj.SuggestedBindingRedirects.cache
+D:\Projects\C# PROJECTS\ExquisiteCorpse\ExquisiteCorpse\obj\Debug\ExquisiteCorpse.csproj.CoreCompileInputs.cache
+D:\Projects\C# PROJECTS\ExquisiteCorpse\ExquisiteCorpse\obj\Debug\ExquisiteCorpse.exe
+D:\Projects\C# PROJECTS\ExquisiteCorpse\ExquisiteCorpse\obj\Debug\ExquisiteCorpse.pdb
