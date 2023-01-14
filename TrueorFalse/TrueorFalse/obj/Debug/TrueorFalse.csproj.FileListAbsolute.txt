@@ -1,0 +1,8 @@
+D:\Projects\C# PROJECTS\TrueorFalse\TrueorFalse\bin\Debug\TrueorFalse.exe.config
+D:\Projects\C# PROJECTS\TrueorFalse\TrueorFalse\bin\Debug\TrueorFalse.exe
+D:\Projects\C# PROJECTS\TrueorFalse\TrueorFalse\bin\Debug\TrueorFalse.pdb
+D:\Projects\C# PROJECTS\TrueorFalse\TrueorFalse\obj\Debug\TrueorFalse.csproj.AssemblyReference.cache
+D:\Projects\C# PROJECTS\TrueorFalse\TrueorFalse\obj\Debug\TrueorFalse.csproj.SuggestedBindingRedirects.cache
+D:\Projects\C# PROJECTS\TrueorFalse\TrueorFalse\obj\Debug\TrueorFalse.csproj.CoreCompileInputs.cache
+D:\Projects\C# PROJECTS\TrueorFalse\TrueorFalse\obj\Debug\TrueorFalse.exe
+D:\Projects\C# PROJECTS\TrueorFalse\TrueorFalse\obj\Debug\TrueorFalse.pdb
