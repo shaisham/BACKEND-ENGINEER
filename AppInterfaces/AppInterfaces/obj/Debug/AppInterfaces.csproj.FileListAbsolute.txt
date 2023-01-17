@@ -1,0 +1,8 @@
+D:\Projects\C# PROJECTS\AppInterfaces\AppInterfaces\bin\Debug\AppInterfaces.exe.config
+D:\Projects\C# PROJECTS\AppInterfaces\AppInterfaces\bin\Debug\AppInterfaces.exe
+D:\Projects\C# PROJECTS\AppInterfaces\AppInterfaces\bin\Debug\AppInterfaces.pdb
+D:\Projects\C# PROJECTS\AppInterfaces\AppInterfaces\obj\Debug\AppInterfaces.csproj.AssemblyReference.cache
+D:\Projects\C# PROJECTS\AppInterfaces\AppInterfaces\obj\Debug\AppInterfaces.csproj.SuggestedBindingRedirects.cache
+D:\Projects\C# PROJECTS\AppInterfaces\AppInterfaces\obj\Debug\AppInterfaces.csproj.CoreCompileInputs.cache
+D:\Projects\C# PROJECTS\AppInterfaces\AppInterfaces\obj\Debug\AppInterfaces.exe
+D:\Projects\C# PROJECTS\AppInterfaces\AppInterfaces\obj\Debug\AppInterfaces.pdb
