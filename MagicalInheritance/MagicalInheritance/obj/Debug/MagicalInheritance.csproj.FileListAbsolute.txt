@@ -1,0 +1,8 @@
+D:\Projects\C# PROJECTS\MagicalInheritance\MagicalInheritance\bin\Debug\MagicalInheritance.exe.config
+D:\Projects\C# PROJECTS\MagicalInheritance\MagicalInheritance\bin\Debug\MagicalInheritance.exe
+D:\Projects\C# PROJECTS\MagicalInheritance\MagicalInheritance\bin\Debug\MagicalInheritance.pdb
+D:\Projects\C# PROJECTS\MagicalInheritance\MagicalInheritance\obj\Debug\MagicalInheritance.csproj.AssemblyReference.cache
+D:\Projects\C# PROJECTS\MagicalInheritance\MagicalInheritance\obj\Debug\MagicalInheritance.csproj.SuggestedBindingRedirects.cache
+D:\Projects\C# PROJECTS\MagicalInheritance\MagicalInheritance\obj\Debug\MagicalInheritance.csproj.CoreCompileInputs.cache
+D:\Projects\C# PROJECTS\MagicalInheritance\MagicalInheritance\obj\Debug\MagicalInheritance.exe
+D:\Projects\C# PROJECTS\MagicalInheritance\MagicalInheritance\obj\Debug\MagicalInheritance.pdb
