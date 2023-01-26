@@ -1,0 +1,8 @@
+D:\Projects\C# PROJECTS\RoverControlCenter\RoverControlCenter\obj\Debug\RoverControlCenter.csproj.AssemblyReference.cache
+D:\Projects\C# PROJECTS\RoverControlCenter\RoverControlCenter\obj\Debug\RoverControlCenter.csproj.SuggestedBindingRedirects.cache
+D:\Projects\C# PROJECTS\RoverControlCenter\RoverControlCenter\obj\Debug\RoverControlCenter.csproj.CoreCompileInputs.cache
+D:\Projects\C# PROJECTS\RoverControlCenter\RoverControlCenter\bin\Debug\RoverControlCenter.exe.config
+D:\Projects\C# PROJECTS\RoverControlCenter\RoverControlCenter\bin\Debug\RoverControlCenter.exe
+D:\Projects\C# PROJECTS\RoverControlCenter\RoverControlCenter\bin\Debug\RoverControlCenter.pdb
+D:\Projects\C# PROJECTS\RoverControlCenter\RoverControlCenter\obj\Debug\RoverControlCenter.exe
+D:\Projects\C# PROJECTS\RoverControlCenter\RoverControlCenter\obj\Debug\RoverControlCenter.pdb
