@@ -1,0 +1,8 @@
+D:\Projects\C# PROJECTS\ProgrammingLanguages\ProgrammingLanguages\bin\Debug\ProgrammingLanguages.exe.config
+D:\Projects\C# PROJECTS\ProgrammingLanguages\ProgrammingLanguages\bin\Debug\ProgrammingLanguages.exe
+D:\Projects\C# PROJECTS\ProgrammingLanguages\ProgrammingLanguages\bin\Debug\ProgrammingLanguages.pdb
+D:\Projects\C# PROJECTS\ProgrammingLanguages\ProgrammingLanguages\obj\Debug\ProgrammingLanguages.csproj.AssemblyReference.cache
+D:\Projects\C# PROJECTS\ProgrammingLanguages\ProgrammingLanguages\obj\Debug\ProgrammingLanguages.csproj.SuggestedBindingRedirects.cache
+D:\Projects\C# PROJECTS\ProgrammingLanguages\ProgrammingLanguages\obj\Debug\ProgrammingLanguages.csproj.CoreCompileInputs.cache
+D:\Projects\C# PROJECTS\ProgrammingLanguages\ProgrammingLanguages\obj\Debug\ProgrammingLanguages.exe
+D:\Projects\C# PROJECTS\ProgrammingLanguages\ProgrammingLanguages\obj\Debug\ProgrammingLanguages.pdb
